@@ -4,6 +4,25 @@ This react app uses two basic components to create a fun guessing game with thre
 ## Play the Game
 [Game](https://react-number-guessing-game.netlify.com)
 
+
+## Screenshots
+
+### Start Game
+
+![Start](./images/startGame.png)
+
+### Standard
+
+![Standard](./images/standard.png)
+
+### Expert
+
+![Expert](./images/expert.png)
+
+### Impossible
+
+![Impossible](./images/impossible.png)
+
 ## Getting Started
 To be able to use this app you run
 ```bash
@@ -17,3 +36,4 @@ to start the app and play the game! Have fun!
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
